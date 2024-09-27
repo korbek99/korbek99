@@ -1,27 +1,71 @@
-# Nombre del Proyecto
+<div align="center">
+# 👋 Hi, Im korbek99
 
-![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/korbek99/&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitas&edge_flat=false)
+---
+</div>
+<div align="center">
 
-Este repositorio contiene código en distintos lenguajes utilizados para el desarrollo del proyecto.
+### 🗂 Proyectos Destacados
 
-## Tecnologías utilizadas
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
 
-- **Lenguaje 1**: Descripción breve.
-- **Lenguaje 2**: Descripción breve.
-- **Lenguaje 3**: Descripción breve.
+
+---
+### 🛠 Tecnologías
+
+#### 💻 Lenguajes y Frameworks
+<p>
+  <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" alt="Swift" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" width="40" alt="Xamarin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" alt="C#" />
   
-## Gráfico de lenguajes usados
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" width="40" alt="Ionic" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" alt="ASP.NET" />
+</p>
 
-![Gráfico de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=korbek99&layout=compact&langs_count=6)
+#### 🛢 Bases de Datos
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL" />
+</p>
 
-Este gráfico muestra la distribución de los lenguajes utilizados en este repositorio, generada automáticamente a partir del código presente.
+#### 🛠 Herramientas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" alt="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins" />
+</p>
 
-## Cómo ejecutar el proyecto
+---
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/korbek99/nombre-del-repo.git
+### 📈 Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=korbek99&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
+### 🌍 Lenguajes Utilizados
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=korbek99&layout=compact&theme=radical)
+
+### 👥 Contador de Visitas
+![Contador de visitas](https://komarev.com/ghpvc/?username=korbek99&color=brightgreen)
+
+---
+
+</div>
 
 <!--
 **korbek99/korbek99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
