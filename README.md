@@ -20,7 +20,7 @@ Este gráfico muestra la distribución de los lenguajes utilizados en este repos
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/usuario/nombre-del-repo.git
+   git clone https://github.com/korbek99/nombre-del-repo.git
 
 
 <!--
