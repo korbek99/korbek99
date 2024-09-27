@@ -12,7 +12,7 @@ Este repositorio contiene código en distintos lenguajes utilizados para el desa
   
 ## Gráfico de lenguajes usados
 
-![Gráfico de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=usuario&layout=compact&langs_count=6)
+![Gráfico de lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=korbek99&layout=compact&langs_count=6)
 
 Este gráfico muestra la distribución de los lenguajes utilizados en este repositorio, generada automáticamente a partir del código presente.
 
